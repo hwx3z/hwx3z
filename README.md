@@ -22,7 +22,7 @@
 - **Backend:** Distributed Systems, ASP.NET Core, FastAPI
 - **Infra:** Docker, Linux, CI/CD
 
-## 🇨🇴🇳🇹🇦🇨🇹 🇲🇪
+## 
 
 Feel free to reach out ૮๑• ̀ㅁ• ́ฅა
 
