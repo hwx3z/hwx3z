@@ -1,24 +1,40 @@
-# Olá, eu sou o Pudim! 👋
+# 👩‍💻 PUDIM
 
-## 🚀 Sobre Mim
-Engenheiro de Software focado em criar sistemas robustos e especialista em Segurança da Informação. Gosto de automatizar tarefas, criar ferramentas de segurança em Python e entender a fundo a arquitetura de sistemas operacionais (especialmente Linux).
+## 🛜 𝙰𝙱𝙾𝚄𝚃 𝙼𝙴
 
-- 🔭 Atualmente trabalhando como: **Software Engineer & Cybersecurity Analyst**
-- 🛡️ Foco em Sec: **[Ex: Pentesting / DevSecOps / Blue Team / Red Team]**
-- 🐧 OS Favorito: **Linux / Arch / Debian**
-- 💬 Pergunte-me sobre: **Python, C#, Arquitetura de Software e Hardening de Sistemas**
+<p align="left">
+  <img src="https://demolab.com+;🌱+building+secure+systems+;💫+languages:+python%2C+c%23" alt="Typing SVG" />
+</p>
+
+🌱 Working on Security Automation & Backend Architecture  
+💫 Languages: Python, C#, Bash  
+✏️ Keen on crafting clean code and robust exploits  
+🎵 Check my stats below ჱ̒⸝⸝• ̀֊• ́⸝⸝)♡  
+
+## 🛡️ 𝙲𝚈𝙱𝙴𝚁𝚂𝙴𝙲𝚄𝚁𝙸𝚃𝚈 & 𝙳𝙴𝚅
+
+### 📘 𝗦𝗲𝗰𝘂𝗿𝗶𝘁𝘆 𝗧𝗼𝗼𝗹𝗶𝗻𝗴
+- 🔴 **Red Teaming:** Active Directory, C# Post-Exploitation
+- 🟢 **Blue Teaming:** Log Analysis, Hardening, SIEM
+- 🐍 **Automation:** Python Vulnerability Scanners
+
+### 📗 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴
+- **Backend:** Distributed Systems, ASP.NET Core, FastAPI
+- **Infra:** Docker, Linux, CI/CD
+
+## 🇨🇴🇳🇹🇦🇨🇹 🇲🇪
+
+Feel free to reach out ૮๑• ̀ㅁ• ́ฅა
+
+[![Email](https://shields.io)](mailto:seu-email@gmail.com)
+[![LinkedIn](https://shields.io)](https://linkedin.com)
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 📊 𝙼𝚈 𝚂𝚃𝙰𝚃𝚂
 
-### 💻 Desenvolvimento & DevOps
-![Python](https://shields.io)
-![C#](https://shields.io)
-![Linux](https://shields.io)
-![Docker](https://shields.io)
+*(Os gráficos abaixo são automáticos. Veja o passo a passo logo abaixo)*
 
-### 🛡️ Cybersecurity & Infra
-![Wireshark](https://shields.io)
-![Nmap](https://shields.io)
-![Bash](https://shields.io)
+<p align="center">
+  <img src="https://github.com" alt="WakaTime" />
+</p>
