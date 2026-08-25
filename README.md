@@ -22,22 +22,3 @@ Engenheiro de Software focado em criar sistemas robustos e especialista em Segur
 ![Wireshark](https://shields.io)
 ![Nmap](https://shields.io)
 ![Bash](https://shields.io)
-
----
-
-## 📊 Estatísticas do GitHub
-
-Abaixo você pode ver o resumo das minhas atividades no GitHub:
-
-```xml
-<p align="left">
-  <img src="https://vercel.app" height="150" alt="stats card" />
-  <img src="https://vercel.app" height="150" alt="languages card" />
-</p>
-```
-
----
-
-## 📫 Como me encontrar
-- 🌐 [Meu Portfólio / Blog](https://seusite.com)
-- 💼 [LinkedIn](https://linkedin.com)
