@@ -129,39 +129,11 @@ Game Development
   ├─ Minecraft modding
   └─ Roblox development
 ```
-
-<br>
-
-## ✧ GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&hide_border=true&theme=transparent" height="165"/>
-</p>
-
-<br>
-
 ## ⋆｡°✩
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USERNAME&bg_color=00000000&hide_border=true&area=true" width="95%"/>
-
-</p>
-
-<br>
-
-## ♡ Projects worth checking
-
-<p align="center">
-
-<a href="https://github.com/SEU_USERNAME/SEU_REPO">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USERNAME&repo=SEU_REPO&hide_border=true&theme=transparent" />
-</a>
-
-<a href="https://github.com/SEU_USERNAME/SEU_REPO">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USERNAME&repo=SEU_REPO&hide_border=true&theme=transparent" />
-</a>
+<img src="laptop_ascii.png" width="95%"/>
 
 </p>
 
