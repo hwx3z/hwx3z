@@ -1,14 +1,26 @@
+<table>
+<tr>
+<td width="65%" valign="center">
+
 # Hey, I'm Pudim 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&width=500&lines=building+things+I+want+to+use;Linux+%7C+AI+%7C+Game+Dev;always+learning%2C+always+building." />
+<p>
+  software • systems • games • experiments
 </p>
 
-<p align="center">
-  <sub>software • systems • games • experiments</sub>
+<p>
+  🐧 Linux &nbsp;•&nbsp; 🤖 AI &nbsp;•&nbsp; 🎮 Game Dev
 </p>
 
-<br>
+</td>
+
+<td width="35%" align="center">
+
+<img src="./assets/anime.png" width="250">
+
+</td>
+</tr>
+</table>
 
 ## ୨୧ About me
 
