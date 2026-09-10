@@ -16,7 +16,7 @@
 
 <td width="35%" align="center">
 
-<img src="/home/pudim/Imagens/🕷️.jpg" width="250">
+<img src="🕷️.jpg" width="250">
 
 </td>
 </tr>
