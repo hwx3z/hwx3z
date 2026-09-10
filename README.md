@@ -186,5 +186,5 @@ Sometimes the best project is simply:
 </p>
 
 <p align="center">
-  <sub>© Lucas Ferreira</sub>
+  <sub>© Pudim</sub>
 </p>
